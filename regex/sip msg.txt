@@ -1,0 +1,30 @@
+SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 192.168.1.101:5060;branch=z9hG4bK123456789
+From: <sip:user1@example.com>;tag=987654321
+To: <sip:user2@example.com>;tag=123456789
+Call-ID: 9876543210@192.168.1.101
+CSeq: 1 INVITE
+
+SIP/2.0 180 Ringing
+Via: SIP/2.0/UDP 192.168.1.101:5060;branch=z9hG4bK123456789
+From: <sip:user1@example.com>;tag=987654321
+To: <sip:user2@example.com>;tag=123456789
+Call-ID: 9876543210@192.168.1.101
+CSeq: 1 INVITE
+
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.1.101:5060;branch=z9hG4bK123456789
+From: <sip:user1@example.com>;tag=987654321
+To: <sip:user2@example.com>;tag=123456789
+Call-ID: 9876543210@192.168.1.101
+CSeq: 1 INVITE
+Contact: <sip:user2@192.168.1.102:5060>
+
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.1.102:5060;branch=z9hG4bK987654321
+From: <sip:user2@example.com>;tag=123456789
+To: <sip:user1@example.com>;tag=987654321
+Call-ID: 9876543210@192.168.1.102
+CSeq: 2 ACK
+
+From abced@def.com xyz

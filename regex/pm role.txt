@@ -1,0 +1,14 @@
+Product manager notes
+Responsibilty: Product Manager needs to be passionate about the product that they are 
+building. Their typical tasks include: writing specifications, prioritizing features, conducting 
+user research, analyzing data, coordinating communications, amassing executives buyin. A 
+Product Manager needs to be able to break a complex project into manageable tasks and prioritize their 
+executions by working closely with the engineering, marketing, and sales team
+
+The exact role of Product Management varies From company to company. 
+For starters, some companies combine product and project management into one 
+role. Others split them apart.
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+With project management, your number one goal is to make sure that the thing you’re working on actually ships.
+With product management, your goal is to make sure you’re building the right product, with the right set of priorities, in a manner consistent 
+with company goals, while constantly advocating for the use
